@@ -1,0 +1,5 @@
+flask
+pyscopg2
+sqlalchemy
+Flask-SQLAlchemy
+SQLAlchemy-serializer

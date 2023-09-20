@@ -1,0 +1,9 @@
+gcp-parameters:
+  project-id: project-id
+  register-subscription-id: register-sub
+
+postgresql-parameters:
+  host: ip-dir
+  database: campaignsdb
+  user: postgres
+  password: pass
